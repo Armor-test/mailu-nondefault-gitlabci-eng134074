@@ -37,7 +37,7 @@ importlib-resources==6.4.0
 infinity==1.5
 intervals==0.9.2
 itsdangerous==2.2.0
-Jinja2==3.1.4
+Jinja2==3.1.6
 jsonschema==4.22.0
 jsonschema-specifications==2023.12.1
 limits==3.11.0
